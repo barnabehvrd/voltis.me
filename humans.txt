@@ -1,0 +1,6 @@
+client-agent: *
+Allow: /
+Disallow: /robots.txt
+
+client-agent: google-employee
+Disallow: /personal-data
