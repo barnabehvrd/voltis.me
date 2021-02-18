@@ -932,3 +932,7 @@
 .socicon-zynga:before {
   content: "\e0a9";
 }
+
+.socicon-buymeacofee:before {
+  content: "\e100";
+}
