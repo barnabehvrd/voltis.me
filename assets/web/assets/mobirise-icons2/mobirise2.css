@@ -496,3 +496,7 @@
 .mobi-mbri-zoom-out:before {
   content: "\e99c";
 }
+
+.mobi-mbri-buymeacofee:before {
+  content: "\e100";
+}
