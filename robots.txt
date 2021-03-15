@@ -2,3 +2,5 @@ User-agent: *
 Sitemap: /sitemap.xml
 Allow: /
 Dissalow: /humans.txt
+Dissalow: /404
+Dissalow: /404.html
