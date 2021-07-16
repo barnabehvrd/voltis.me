@@ -1,6 +1,6 @@
 User-agent: *
-Sitemap: /sitemap.xml
+Sitemap: https://voltis.me/sitemap.xml
 Allow: /
-Dissalow: /humans.txt
-Dissalow: /404
-Dissalow: /404.html
+Disallow: /humans.txt
+Disallow: /404
+Disallow: /404.html
