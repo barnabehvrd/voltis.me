@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://voltis.me/sitemap.xml
