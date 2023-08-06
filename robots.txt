@@ -1,6 +1,4 @@
 User-agent: *
-Sitemap: https://voltis.me/sitemap.xml
 Allow: /
-Disallow: /humans.txt
-Disallow: /404
-Disallow: /404.html
+
+sitemap: https://voltis.me/sitemap.xml
